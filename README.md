@@ -359,15 +359,3 @@ tail -f storage/logs/laravel.log
 3. Commit changes: `git commit -am 'Add feature'`
 4. Push to branch: `git push origin feature-name`
 5. Submit pull request
-
-## 📄 License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-
-## 📞 Support
-
-For support, email your-email@domain.com or create an issue on GitHub.
-
----
-
-**Note**: This application is built for demonstration purposes and includes all the required features from the assignment specification. The UI is intentionally minimal to focus on backend functionality, real-time features, and system architecture.
